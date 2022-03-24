@@ -42,15 +42,15 @@ except:
 try:
     prijsSmall = hoeveelSmall * small
 except:
-    print('Dit gaat niet werken')
+    pass
 try:
     prijsMedium = hoeveelMedium * medium
 except:
-    print('Dit gaat niet werken')
+    pass
 try:
     prijsLarge = hoeveelLarge * large
 except:
-    print('Dit gaat niet werken')
+    pass
 
 #print en uitkomst van de prijzen die opgetelt zijn door de bovenstaande rekensom
 try:
